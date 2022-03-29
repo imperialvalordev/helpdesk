@@ -1,2 +1,2 @@
-# Imperial Valor Requests
-Please submit your requests to here.
+# Imperial Valor Helpdesk
+Please submit your requests/bug reports to here.
