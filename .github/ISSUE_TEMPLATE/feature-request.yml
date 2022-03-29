@@ -27,3 +27,10 @@ body:
     attributes:
       label: Other context
       description: Any other context, screenshots, or file uploads that help us understand your feature request.
+  - type: textarea
+    id: platform
+    attributes:
+      label: The platform for which your plugin is to be built against
+      description: Bungee/Spigot/Paper etc with version
+    validation:
+      required: true
