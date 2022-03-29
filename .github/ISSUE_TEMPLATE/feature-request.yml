@@ -32,5 +32,5 @@ body:
     attributes:
       label: The platform for which your plugin is to be built against
       description: Bungee/Spigot/Paper etc with version
-    validation:
+    validations:
       required: true
